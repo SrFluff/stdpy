@@ -10,5 +10,5 @@ My (personal) standard library.
 
 # FAQ
 
-**Q:**Why?\
-**A:**Because.
+**Q:** Why?\
+**A:** Because.
