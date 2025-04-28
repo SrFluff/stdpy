@@ -17,5 +17,3 @@ def log(msg):
         f = open("log.txt","a")
         f.write("[AUTO]:" + msg + "\n")
         f.close()
-
-log("Pluh")
