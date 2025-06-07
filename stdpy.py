@@ -1,6 +1,5 @@
-# Imports
-
 import os
+import json
 
 def cls():
     if os.name == "nt":
@@ -33,3 +32,9 @@ def readline(fileToRead):
         for line in f:
             guh.append(line)
         return guh
+
+def parse(file,variable):
+    f = open(file,"r")
+    return json.loads(f.read())[variable]
+    f.close()
+
