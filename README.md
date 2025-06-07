@@ -6,8 +6,8 @@ My (personal) standard library.
 `cls()`      - Clears the screen\
 `log()`      - Logs to a `log.txt` file\
 `clog()`     - Clears the log\
-`readline()` - Reads the contents of a file into an array, line-by-line.
-`fetch()`    - Returns the log (micro stdpy only)
+`readline()` - Reads the contents of a file into an array, line-by-line.\
+`fetch()`    - Returns the log (micro stdpy only)\
 `parse()`    - Returns a variable from a specified JSON file
 
 # Micro stdpy
